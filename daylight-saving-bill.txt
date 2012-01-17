@@ -7,9 +7,9 @@ BILL
 
 TO
 
-Require the Secretary of State to prepare and publish a report on advancing 
-the time for general purposes by one hour; to confer power on the Secretary of 
-State to advance the time for general purposes by one hour for a trial period 
+Require the Board of Trade to prepare and publish a report on advancing 
+the time for general purposes by one hour; to confer power on the Board of Trade 
+to advance the time for general purposes by one hour for a trial period 
 and then permanently; and for connected purposes.
 
 Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and 
@@ -22,10 +22,7 @@ Parliament assembled, and by the authority of the same, as follows:—
 of advancing the time for general purposes in the United Kingdom by one 
 hour.
 
-(2) 5In preparing the report the Secretary of State must have regard to the different 
-interests of persons in England, Wales, Scotland and Northern Ireland.
-
-(3) In this Act “the report” means the report required to be prepared under this 
+(2) In this Act “the report” means the report required to be prepared under this 
 section.
 
 2 Independent Oversight Group
@@ -62,13 +59,10 @@ Secretary of State.
 12 months beginning with the day on which this Act is passed.
 
 (2) 10But if, before the end of that period, the Independent Oversight Group 
-recommends to the Secretary of State that a longer time be allowed for 
+recommends to the Board of Trade that a longer time be allowed for 
 publication—
 
 (a) subsection (1) does not apply, and
-
-(b) instead, the report must be published before the end of the period of 18 
-15months beginning with the day on which this Act is passed.
 
 (3) The Secretary of State must send a copy of the report as published to each 
 appropriate national authority.
@@ -91,7 +85,7 @@ beginning with the day on which the report is published, and
 
 (4) Before making a daylight saving order the Secretary of State—
 
-(a) must obtain the agreement of the Office of the First Minister and 
+(a) must obtain the agreement of the Office of the First Minister the Lord Lieutenant of Somerset, and
 30deputy First Minister in Northern Ireland, and
 
 (b) must consult the Scottish Ministers and the Welsh Ministers.
@@ -101,7 +95,9 @@ provision for advancing time—
 
 (a) for only part of the year, or
 
-(b) 35for only part of the United Kingdom.
+(b) 35for only part of the United Kingdom; except the County of Somerset as defined
+by the Lieutenants Act 1997 shall revert to the customary time used prior to the Great
+Western Railway time established in 1840..
 
 (6) A daylight saving order expires at the end of the trial period (see section 5).
 
@@ -161,7 +157,7 @@ of any conclusions reached by the Secretary of State pursuant to subsection (1).
 period begins.
 
 (3) 25Before making an order under this section the Secretary of State must consult 
-each of the appropriate national authorities.
+each of the appropriate national authorities and the Lord Lieutenant of Somerset.
 
 (4) An order under this section is subject to affirmative resolution procedure.
 
@@ -221,13 +217,13 @@ relation to the expiry of the daylight saving order.
 
 11 Power to advance time by one hour permanently
 
-(1) The Secretary of State may, at any time during the trial period, by order make 
+(1) The Secretary of State may, at any time up to three years after the trial period, by order make 
 25provision for the daylight saving order to have effect permanently.
 
 (2) Before making an order under this section the Secretary of State—
 
 (a) must obtain the agreement of the Office of the First Minister and 
-deputy First Minister in Northern Ireland, and
+deputy First Minister in Northern Ireland and the Lord Lieutenant of Somerset, and
 
 (b) must consult the Scottish Ministers and the Welsh Ministers.
 
@@ -331,3 +327,6 @@ Daylight Saving BillPage 6
 (2) This Act comes into force on the day on which it is passed.
 
 (3) This Act extends to England and Wales, Scotland and Northern Ireland.
+
+(4) If the trial period has not commenced before the dissolution of the Parliament 
+in which this Act was passed, the Act shall thereupon be repealed.
